@@ -28,15 +28,23 @@ _**Post MVP Stretch Goals**_
 
 GET api/artwork
 
-```
+```json
+[{
+    "id": "1",
+    "category": "Paintings: People",
+    "title": "Portrait of Ari",
+    "sizeHeight": "9",
+    "sizeWidth": "6",
+    "imgUrl": "example.jpg",
+},
 {
-    "id": "1"
-    "category": "Paintings: People"
-    "title": "Portrait of Ari"
-    "sizeHeight": "9"
-    "sizeWidth": "6"
-    "imgUrl": "...jpg"
-}
+    "id": "2",
+    "category": "Paintings: People",
+    "title": "Ben",
+    "sizeHeight": "24",
+    "sizeWidth": "24",
+    "imgUrl": "example2.jpg"
+}]
 ```
 
 ## React Component Heierarchy
