@@ -47,6 +47,6 @@ GET api/artwork
 }]
 ```
 
-## React Component Heierarchy
+## React Component Hierarchy
 
 ![Component Hierarchy](/readme-images/component-tree-png.png)
